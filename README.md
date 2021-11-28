@@ -9,5 +9,4 @@
                        Email: [aguskenny@hotmail.com](mailto:aguskenny@hotmail.com)
 											</h4>
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I hated React when i first started and now i'm in love with it.
 
