@@ -2,7 +2,7 @@
 
 
 
-- 👯 I’m looking to work in a team where i can be useful and grow as a developer.
+- 👯 I’m a passionate developer always eager to learn about new technologies
 - 💬 Ask me about JavaScript, NodeJS, Express, MongoDB and React
 - 📫 How to reach me: <h4>
                        LinkedIn: [Agustín Kenny](https://www.linkedin.com/in/agustín-kenny)                                                                      
