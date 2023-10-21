@@ -8,6 +8,7 @@
                        LinkedIn: [Agustín Kenny](https://www.linkedin.com/in/agustín-kenny)                                                                      
                        Email: [aguskenny@hotmail.com](mailto:aguskenny@hotmail.com)
                        Portfolio: [Made with astro](https://portfolio-agustin-kenny.vercel.app)
-											</h4>
+
+  </h4>
 - 😄 Pronouns: He/His
 
